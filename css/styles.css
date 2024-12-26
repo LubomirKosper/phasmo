@@ -1,0 +1,4 @@
+body {
+    background: black url(/background.jpg) no-repeat;
+    background-size: cover;
+}
